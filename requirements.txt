@@ -1,0 +1,7 @@
+numpy
+taichi
+scipy
+matplotlib
+imageio
+imageio-ffmpeg
+Pillow

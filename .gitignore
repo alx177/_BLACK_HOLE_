@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local data and results
+data/trajetorias_tde.npy
+results/frames_tde/
